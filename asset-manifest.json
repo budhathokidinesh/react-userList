@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-userList/static/css/main.31d6cfe0.css",
+    "main.js": "/react-userList/static/js/main.c164446b.js",
+    "static/js/453.d4d36610.chunk.js": "/react-userList/static/js/453.d4d36610.chunk.js",
+    "static/media/woman.png": "/react-userList/static/media/woman.3f889d0af5f26871fbcc.png",
+    "static/media/man.png": "/react-userList/static/media/man.ab45eb1d42b1faaf3d12.png",
+    "index.html": "/react-userList/index.html",
+    "main.c164446b.js.map": "/react-userList/static/js/main.c164446b.js.map",
+    "453.d4d36610.chunk.js.map": "/react-userList/static/js/453.d4d36610.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.c164446b.js"
+  ]
+}
